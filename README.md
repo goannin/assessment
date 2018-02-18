@@ -2,4 +2,4 @@
 あなたのいいところ診断ゲーム
 
 ### 診断結果
-[こちら](Results)
+[こちら](https://github.com/goannin/assessment/wiki/Results)
